@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །འཆི་མེད་རིག་འཛིན་ཆེན་པོ་སྐུ་མི་མངོན་ཆོས་ཀྱི་དབྱིངས་སུ་གཤེགས་ཁར་གནང་བའི་ཞལ་གདམས་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-16
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: The Last Testament of the Great Chime Rigzin Before His Passing Away
+    bo: འཆི་མེད་རིག་འཛིན་ཆེན་པོ་སྐུ་མི་མངོན་ཆོས་ཀྱི་དབྱིངས་སུ་གཤེགས་ཁར་གནང་བའི་ཞལ་གདམས་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 16
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༡༦
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-16
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-16.epub
+  description:
+    en: ''
+    bo: ''
